@@ -47,6 +47,7 @@ Functional Test Cases
 Regression Test Cases
 UI Test Cases
 Smoke Test Cases
+
 Each test case includes:
 
 Test Case ID
